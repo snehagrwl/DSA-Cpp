@@ -5,15 +5,15 @@
 #include<set>
 using namespace std;
 
-vector<string> sort(vector<string>& name,vector<int>& height){
+vector<string> sort(vector<string>& names,vector<int>& heights){
    vector<pair<int,string>> v;
-   for(int i = 0; i<name.size(); i++) {
+   for(int i = 0; i<names.size(); i++) {
        v.push_back({heights[i], names[i]});
      }
 sort(v.begin(),v.end(),greater<>());
 vector<string>ans;
 for(auto p:v){
-ans.push_back(second);
+ans.push_back(p.second);
 }
 return ans;
 }
