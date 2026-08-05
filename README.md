@@ -11,4 +11,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/snehagrwl/DSA-Cpp/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
