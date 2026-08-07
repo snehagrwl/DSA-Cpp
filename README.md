@@ -7,6 +7,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
