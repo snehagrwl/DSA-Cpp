@@ -9,6 +9,7 @@ Data Structures and Algorithms practice in C++
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ Data Structures and Algorithms practice in C++
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -58,4 +60,9 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
