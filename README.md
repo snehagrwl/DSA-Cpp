@@ -54,6 +54,7 @@ Data Structures and Algorithms practice in C++
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/snehagrwl/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
@@ -79,4 +80,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/snehagrwl/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
