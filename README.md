@@ -37,6 +37,7 @@ Data Structures and Algorithms practice in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
