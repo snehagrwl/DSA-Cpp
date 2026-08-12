@@ -11,10 +11,12 @@ Data Structures and Algorithms practice in C++
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/snehagrwl/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
