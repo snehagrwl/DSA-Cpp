@@ -17,6 +17,7 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/snehagrwl/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
