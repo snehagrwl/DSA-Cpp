@@ -12,6 +12,7 @@ Data Structures and Algorithms practice in C++
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/snehagrwl/DSA-Cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/snehagrwl/DSA-Cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
