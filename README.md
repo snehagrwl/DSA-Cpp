@@ -11,6 +11,7 @@ Data Structures and Algorithms practice in C++
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/snehagrwl/DSA-Cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -26,6 +27,7 @@ Data Structures and Algorithms practice in C++
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -92,4 +94,28 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
