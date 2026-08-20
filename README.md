@@ -7,6 +7,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
@@ -48,6 +49,7 @@ Data Structures and Algorithms practice in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -138,4 +140,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
