@@ -13,6 +13,7 @@ Data Structures and Algorithms practice in C++
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+| [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/snehagrwl/DSA-Cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -129,4 +130,12 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
