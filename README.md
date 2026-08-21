@@ -31,6 +31,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0077-combinations](https://github.com/snehagrwl/DSA-Cpp/tree/master/0077-combinations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Data Structures and Algorithms practice in C++
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -106,10 +108,12 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -156,4 +160,5 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
