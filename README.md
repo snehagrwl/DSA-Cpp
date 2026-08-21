@@ -109,6 +109,7 @@ Data Structures and Algorithms practice in C++
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/snehagrwl/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -141,6 +142,7 @@ Data Structures and Algorithms practice in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
 ## Matrix
 |  |
@@ -164,4 +166,12 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
