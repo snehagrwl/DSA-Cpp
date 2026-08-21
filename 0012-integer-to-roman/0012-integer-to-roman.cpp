@@ -1,34 +1,16 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        // Think aloud: each index represents a digit from 0 to 9.
-        // We store the Roman representation for ones, tens, hundreds, and thousands.
-        vector<string> thousands = {"", "M", "MM", "MMM"};
+        int values[]={1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        string symbol[]={"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+        string result="";
 
-        vector<string> hundreds = {
-            "", "C", "CC", "CCC", "CD",
-            "D", "DC", "DCC", "DCCC", "CM"
-        };
-
-        vector<string> tens = {
-            "", "X", "XX", "XXX", "XL",
-            "L", "LX", "LXX", "LXXX", "XC"
-        };
-
-        vector<string> ones = {
-            "", "I", "II", "III", "IV",
-            "V", "VI", "VII", "VIII", "IX"
-        };
-
-        // Think aloud: extract each digit based on its place value
-        // and directly pick its Roman representation from the table.
-        string result;
-
-        result += thousands[num / 1000];
-        result += hundreds[(num % 1000) / 100];
-        result += tens[(num % 100) / 10];
-        result += ones[num % 10];
-
+        for (int i=0;i<13;i++){
+            while(num>=values[i]){
+                result+=symbol[i];
+                num-=values[i];
+            }
+        }
         return result;
     }
 };
