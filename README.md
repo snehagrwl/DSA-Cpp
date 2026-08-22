@@ -8,6 +8,7 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [0001-two-sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/snehagrwl/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
@@ -128,6 +129,7 @@ Data Structures and Algorithms practice in C++
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/snehagrwl/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -185,6 +187,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/snehagrwl/DSA-Cpp/tree/master/0011-container-with-most-water) |
 ## Manacher
 |  |
 | ------- |
