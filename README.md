@@ -46,6 +46,7 @@ Data Structures and Algorithms practice in C++
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/snehagrwl/DSA-Cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
