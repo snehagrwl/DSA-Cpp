@@ -110,6 +110,7 @@ Data Structures and Algorithms practice in C++
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/snehagrwl/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 ## String
@@ -117,6 +118,7 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/snehagrwl/DSA-Cpp/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/snehagrwl/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/snehagrwl/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/snehagrwl/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -154,6 +156,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
 ## Matrix
