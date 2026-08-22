@@ -1,51 +1,23 @@
-
-#include <vector>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
-    vector<string> letterCombinations(string digits) {
-        // If input is empty, just return empty vector
-        if (digits.empty()) return {};
-
-        // Map digits to letters - phone keypad mapping
-        vector<string> mapping = {
-            "",     // 0 (no letters)
-            "",     // 1 (no letters)
-            "abc",  // 2
-            "def",  // 3
-            "ghi",  // 4
-            "jkl",  // 5
-            "mno",  // 6
-            "pqrs", // 7
-            "tuv",  // 8
-            "wxyz"  // 9
-        };
-
+        vector<string> mapping={"0","1","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string> result;
-        string current;
-        backtrack(digits, 0, mapping, current, result);
-        return result;
-    }
-
-private:
-    void backtrack(const string& digits, int index, const vector<string>& mapping, string& current, vector<string>& result) {
-        // Base case: if index reached end of digits, push current combination
-        if (index == digits.size()) {
-            result.push_back(current);
-            return;
+        void backtrack(string& digits, int index,string& current){
+            if(index==digits.size()){
+                result.push_back(current);
+                return;
+            }
+            int digit=digits[index]-'0';
+            for(char c:mapping[digit]){
+                current.push_back(c);
+                backtrack(digits,index+1,current);
+                current.pop_back();
+            }
         }
-
-        // Get letters for current digit
-        int digit = digits[index] - '0';
-        string letters = mapping[digit];
-
-        // For each letter, add to current and recurse for next digit
-        for (char letter : letters) {
-            current.push_back(letter);               // Choose letter
-            backtrack(digits, index + 1, mapping, current, result); // Explore
-            current.pop_back();                      // Backtrack
+    vector<string> letterCombinations(string digits) {
+            if(digits.empty()) return {};
+            string current="";
+            backtrack(digits,0,current);
+            return result;
         }
-    }
-};
+    };
