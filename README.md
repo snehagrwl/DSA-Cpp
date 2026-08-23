@@ -106,6 +106,7 @@ Data Structures and Algorithms practice in C++
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/snehagrwl/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
@@ -134,6 +135,7 @@ Data Structures and Algorithms practice in C++
 | [0012-integer-to-roman](https://github.com/snehagrwl/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/snehagrwl/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/snehagrwl/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -170,6 +172,7 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
 ## Matrix
@@ -216,4 +219,8 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
