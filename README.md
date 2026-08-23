@@ -65,6 +65,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -77,6 +78,7 @@ Data Structures and Algorithms practice in C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -86,6 +88,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehagrwl/DSA-Cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/snehagrwl/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0641-design-circular-deque](https://github.com/snehagrwl/DSA-Cpp/tree/master/0641-design-circular-deque) |
 ## Design
@@ -203,4 +206,12 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehagrwl/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/snehagrwl/DSA-Cpp/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
