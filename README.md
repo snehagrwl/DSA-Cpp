@@ -113,6 +113,7 @@ Data Structures and Algorithms practice in C++
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehagrwl/DSA-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -139,6 +140,7 @@ Data Structures and Algorithms practice in C++
 | [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [1927-sum-game](https://github.com/snehagrwl/DSA-Cpp/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehagrwl/DSA-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
