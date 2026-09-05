@@ -28,6 +28,7 @@ Data Structures and Algorithms practice in C++
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/snehagrwl/DSA-Cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Data Structures and Algorithms practice in C++
 | ------- |
 | [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
