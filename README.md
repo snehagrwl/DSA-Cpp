@@ -145,6 +145,7 @@ Data Structures and Algorithms practice in C++
 | [0017-letter-combinations-of-a-phone-number](https://github.com/snehagrwl/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/snehagrwl/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/snehagrwl/DSA-Cpp/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehagrwl/DSA-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -187,6 +188,7 @@ Data Structures and Algorithms practice in C++
 | [0010-regular-expression-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/snehagrwl/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
 ## Matrix
 |  |
