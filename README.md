@@ -146,6 +146,7 @@ Data Structures and Algorithms practice in C++
 | [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/snehagrwl/DSA-Cpp/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/snehagrwl/DSA-Cpp/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehagrwl/DSA-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -189,6 +190,7 @@ Data Structures and Algorithms practice in C++
 | [0032-longest-valid-parentheses](https://github.com/snehagrwl/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/snehagrwl/DSA-Cpp/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/snehagrwl/DSA-Cpp/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/snehagrwl/DSA-Cpp/tree/master/1563-stone-game-v) |
 ## Matrix
 |  |
