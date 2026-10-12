@@ -20,6 +20,7 @@ Data Structures and Algorithms practice in C++
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/snehagrwl/DSA-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +65,7 @@ Data Structures and Algorithms practice in C++
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/snehagrwl/DSA-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/snehagrwl/DSA-Cpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
