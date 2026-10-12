@@ -21,6 +21,7 @@ Data Structures and Algorithms practice in C++
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/snehagrwl/DSA-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/snehagrwl/DSA-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/snehagrwl/DSA-Cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -38,6 +39,7 @@ Data Structures and Algorithms practice in C++
 | [0012-integer-to-roman](https://github.com/snehagrwl/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/snehagrwl/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/snehagrwl/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/snehagrwl/DSA-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagrwl/DSA-Cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/snehagrwl/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/snehagrwl/DSA-Cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -132,6 +134,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/snehagrwl/DSA-Cpp/tree/master/0191-number-of-1-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/snehagrwl/DSA-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/snehagrwl/DSA-Cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
@@ -166,6 +169,7 @@ Data Structures and Algorithms practice in C++
 | [1927-sum-game](https://github.com/snehagrwl/DSA-Cpp/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/snehagrwl/DSA-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/snehagrwl/DSA-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
