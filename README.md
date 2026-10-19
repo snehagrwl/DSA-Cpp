@@ -19,6 +19,7 @@ Data Structures and Algorithms practice in C++
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/snehagrwl/DSA-Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/snehagrwl/DSA-Cpp/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/snehagrwl/DSA-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/snehagrwl/DSA-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -90,6 +91,7 @@ Data Structures and Algorithms practice in C++
 | [0016-3sum-closest](https://github.com/snehagrwl/DSA-Cpp/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/snehagrwl/DSA-Cpp/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehagrwl/DSA-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/snehagrwl/DSA-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/snehagrwl/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
